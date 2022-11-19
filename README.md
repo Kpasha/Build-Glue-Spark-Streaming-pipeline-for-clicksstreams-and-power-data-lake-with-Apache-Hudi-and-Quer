@@ -6,4 +6,4 @@
 
 
 ### Special Thanks to Authors where i was able to learn and implmentv my own versions 
-* Build a Serverless Pipeline to Analyze Streaming Data Using AWS Glue, Apache Hudi, and Amazon S3. aws.amazon.com/blogs/big-data/build-a-serverless-pipeline-to-analyze-streaming-data-using-aws-glue-apache-hudi-and-amazon-s3. Accessed 19 Nov. 2022.
+* Build a Serverless Pipeline to Analyze Streaming Data Using AWS Glue, Apache Hudi, and Amazon S3. https://aws.amazon.com/blogs/big-data/build-a-serverless-pipeline-to-analyze-streaming-data-using-aws-glue-apache-hudi-and-amazon-s3/ Accessed 19 Nov. 2022.
